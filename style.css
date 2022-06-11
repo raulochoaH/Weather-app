@@ -54,3 +54,19 @@ input.search-bar {
 button:hover {
     background: #7c7c7c6b;
 }
+
+h1.temp {
+    margin: 0;
+    margin-bottom: 0.4px;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+}
+
+.description {
+    text-transform: capitalize;
+    margin-left: 8px;
+}
+
